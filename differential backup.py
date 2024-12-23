@@ -27,9 +27,9 @@ def backup_folder(src, dest):
 
 if __name__ == "__main__":
     # Source folder path
-    source_folder = "G:/photo/Pictures"
+    source_folder = # "path"
     # Target file path
-    destination_folder = "G:/photo/GTneo5/Pictures"
+    destination_folder = # "path"
     
     backup_folder(source_folder, destination_folder)
     print("Backup successful！")
